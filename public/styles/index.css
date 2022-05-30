@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(138, 202, 207);
+}
+
+#flag {
+  padding-top: 10px;
+  height: 80px;
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainHeader,
+#covidHeader,
+#chooseProvince,
+#mainBtn,
+#entryQuestion,
+#entryAnswer,
+#regForm,
+#userName,
+#loginForm {
+  text-align: center;
+}
+
+#mapCanada {
+  height: 500px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#healthCanada {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.check {
+  height: 500px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  word-spacing: 1px;
+  text-align: center;
+}
+
+#input {
+  background-color: rgb(217, 218, 212);
+}
+
+#mapCanadaDiv {
+  border-color: black;
+}
+
+/* #regForm {
+  height: 1000px;
+  width: 272px;
+  border-color: beige;
+  border-radius: 20%;
+} */
